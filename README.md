@@ -4,7 +4,9 @@ Welcome to my LeetCode Journey repository! This repository serves as a log of my
 
 ## Repository Structure
 
-The repository is organized into different folders based on topics, problem types, or tags. Each folder contains solutions to problems, along with explanations and the thought process behind each solution.
+The repository is organized into different folders based on topics, problem types, or tags. Each folder contains solutions to problems, explanations and the thought process behind each solution will be provided in a README file in each folder. 
+
+**Note:** Some problems might not have an explanation or walk through as they were solved before the repo was created and therefore I wont be doing a walk through as it is easier to explain in the moment of solving the problem.
 
 ### Example Structure:
 - `arrays/` - Solutions and explanations for array-related problems.
